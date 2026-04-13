@@ -1,6 +1,6 @@
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                                                                            ║
-║                    FPGA HACKATHON 2026: TECHNICAL REPORT                   ║
+║                              TECHNICAL REPORT                   ║
 ║                                                                            ║
 ║                   Real-Time ECG Beat Classification on FPGA                ║
 ║                                                                            ║
